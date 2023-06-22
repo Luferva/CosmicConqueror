@@ -126,7 +126,7 @@ MonoBehaviour:
   velocidadeMaxima: 2
   vidas: 4
   particulaExplosaoPrefab: {fileID: 9137472751299984903, guid: f9f00a3d7eec98c4bb5a801f0e402ab2, type: 3}
-  chanceSoltarItemVida: 30
+  chanceSoltarItemVida: 20
   itemVidaPrefab: {fileID: 2627989469164811238, guid: fb9b516c690845144bd0fa252e51351b, type: 3}
   chanceSoltarPowerUp: 10
   powerUpPrefabs:
